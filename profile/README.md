@@ -1,9 +1,9 @@
-<img src="https://github.com/tmodders/.github/blob/main/assets/logo.svg" align="right" width="64px" height="64px"/>
+<img src="https://github.com/tmodders/.github/blob/main/assets/logo.svg" align="center"/>
 
-# tModders
+# Treehouse
 
 ## About
-**tModders** is a community-driven initiative focused on building tools, resources, and projects for the **Terraria modding community**.
+**Treehouse** is a community-driven initiative focused on building tools, resources, and projects for the **Terraria modding community**.
 
 ---
 
