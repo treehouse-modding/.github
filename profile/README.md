@@ -1,4 +1,4 @@
-<img src="https://github.com/tmodders/.github/blob/main/assets/logo.svg" align="center"/>
+<img src="https://github.com/tmodders/.github/blob/main/assets/logo-background.png" align="center"/>
 
 # Treehouse
 
